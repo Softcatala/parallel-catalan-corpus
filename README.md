@@ -1,5 +1,5 @@
 ## Description
-This repository collects some free sentences corpus in English - Catalan.
+This repository collects open source ALIGNED sentences corpus English to Catalan.
 
 ## Data files
 | Data file     | Description | Segments | Import date | License|Comments
