@@ -42,6 +42,10 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </table>
 </div>
 
+## Other sources
+Data could be extracted from other sources, but this data would require proper processing and alignment. 
+* https://web.gencat.cat See footnote: "© Government of Catalonia permits the reuse of content and data provided that the source and the date of updating are cited and that the information is not distorted (article 8 of Catalan Law 37/2007) and does not conflict with a specific license."
+
 # Contact
 
 Contact Jordi Mas <jmas@softcatala.org>
