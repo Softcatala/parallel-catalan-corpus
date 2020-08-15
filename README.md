@@ -48,7 +48,7 @@ Data could be extracted from other sources, but this data would require proper p
 
 # Do you want to help?
 
-See [here](./CONTRIBUTING.md.md) (In Catalan)
+See [here](./CONTRIBUTING.md) (In Catalan)
 
 # Contact
 
