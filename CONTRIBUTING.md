@@ -9,12 +9,13 @@ Projecte actual: https://github.com/Softcatala/en-ca-corpus
 
 Un dels objectius és que els corpus siguin lliures per realment fer un salt endavant en tecnologies de la llengua. Considerem els següents requisits mínims:
 
-Que es pugui redistribuir sense massa restriccions 
-Que es pugui modificar, i es pugui distribuir modificat (ens cal aplicar transformacions com ara neteges)
-Que es pugui usar en ús comercial 
+* Que es pugui redistribuir sense massa restriccions
+* Que es pugui modificar, i es pugui distribuir modificat (ens cal aplicar transformacions com ara neteges)
+* Que es pugui usar en ús comercial
+
 No considerem clau:
-Que es pugui combinar amb altres textos (compatibilitat de llicències)
-Que obligui a publicar les millores
+* Que es pugui combinar amb altres textos (compatibilitat de llicències)
+* Que obligui a publicar les millores
 
 Pensem que és important focalitzar-nos amb continguts en llicències Creative Commons i similars. És una restricció important però creiem important que els corpus siguin lliures. 
 
@@ -27,7 +28,7 @@ Possibles maneres:
 
 Un projecte relacionat és millorar l'Europarl eng-cat fins al punt de considerar-lo de prou qualitat per a consulta. Això es faria combinant la millora de la traducció spa-cat amb Apertium i postedició amb l'ajuda de LanguageTool. És un projecte que requeriria finançament, però seria molt més barat que una revisió només humana, que seria caríssima. Es millorarien diferents coses al mateix temps: Apertium, LanguageTool i el corpus en si. Considero que val molt la pena. Hauríem d'estar atents a oportunitats de trobar finançament. 
 
-# Fer scraping de pàgines web amb traduccions ben estructurades i llicències lliures. 
+# Fer scraping de pàgines web amb traduccions ben estructurades i llicències lliures
 
 He fet la prova amb la web de jw.org + scrapy (i abans amb TedTalks i Globalvoices). L'alineament es fa després amb youalign.com. Funciona molt bé. Però en jw.org, sense entrar en documents PDF i EPUB, hi ha menys volum del que em pensava en català (unes 45.000 paraules).
 
@@ -38,7 +39,7 @@ Web d'estudis de la Caixa: https://observatoriosociallacaixa.org/ca/ (Molta info
 
 El volum en aquestes fonts és modest. Però es tracta d'anar sumant...
 
-# Dades de webs no tan estructurades: Gencat / Bitextor. 
+# Dades de webs no tan estructurades: Gencat / Bitextor
 
 L'eina per a generar el corpus podria ser Bitextor. Un exemple d'aquestes webs: 
 gencat.cat
@@ -104,5 +105,7 @@ Exemples:
 
 # Possibles tasques concretes
 
-- Crear un corpus paral·lel de barcelona.cat. De manera semiautomàtica (amb una mica de supervisió manual) es podrien extraure moltes dades. 
-
+* Crear un corpus paral·lel de barcelona.cat. De manera semiautomàtica (amb una mica de supervisió manual) es podrien extraure moltes dades. 
+    * Com: caldria preparar un crawler, usar eina d'alineació, i revisar manualment el resultat final.
+* Crear un corpus paral·lel a partir de Viquitexts. Caldria seleccionar bé les obres per la qualitat dels textos
+    * Com: baixar des de https://ca.wikisource.org les fonts, usar un OCR per convertir-ho a text, esmenar les errades de conversió, usar eina d'alineació, i revisar manualment el resultat final.
