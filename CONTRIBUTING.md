@@ -17,7 +17,10 @@ No considerem clau:
 * Que es pugui combinar amb altres textos (compatibilitat de llicències)
 * Que obligui a publicar les millores
 
-Pensem que és important focalitzar-nos amb continguts en llicències Creative Commons i similars. És una restricció important però creiem important que els corpus siguin lliures. 
+Considerem acceptables:
+
+- Totes les llicències considerades lliures per l'[Open Source Iniciative] (https://opensource.org/licenses) o la [Free Software Foundation] (https://www.gnu.org/licenses/licenses.en.html)
+- Totes les llicències Creative Commons que no restrigueixin no limitin l'ús comercial (CC-0, CC-BY, CC-BY-SA)
 
 # Millorar la qualitat dels corpus Wikimatrix i Europarl
 
