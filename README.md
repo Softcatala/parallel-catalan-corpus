@@ -14,7 +14,7 @@ These kind of aligned corpus are for example key to train machine translations s
 | tedtalks.en-ca | https://www.ted.com/ | 50979|Jan 2020 |Creative Commons BY-NC-ND |
 | tatoeba.en-ca | https://tatoeba.org/eng/downloads | 5500|Jan 2020 | CC0 and CC-BY |
 | covost2.ca-en | https://github.com/facebookresearch/covost | 175625 | Aug 2020 | CC0 | Catalan original sentences from Common Voice corpus + English translations
-| covost2.en-ca | https://github.com/facebookresearch/covost | 854444 | Aug 2020 | CC0 | English original sentences from Common Voice corpus + Catalan translations
+| covost2.en-ca | https://github.com/facebookresearch/covost | 854435 | Aug 2020 | CC0 | English original sentences from Common Voice corpus + Catalan translations
 
 We also recommend: http://opus.nlpl.eu/
 
