@@ -19,8 +19,8 @@ No considerem clau:
 
 Considerem acceptables:
 
-- Totes les llicències considerades lliures per l'[Open Source Iniciative] (https://opensource.org/licenses) o la [Free Software Foundation] (https://www.gnu.org/licenses/licenses.en.html)
-- Totes les llicències Creative Commons que no restrigueixin no limitin l'ús comercial (CC-0, CC-BY, CC-BY-SA)
+- Totes les llicències considerades lliures per l'[Open Source Iniciative](https://opensource.org/licenses) o la [Free Software Foundation](https://www.gnu.org/licenses/licenses.en.html)
+- Totes les llicències [Creative Commons](https://creativecommons.org/) que no restringeixin o limitin l'ús comercial (CC-0, CC-BY, CC-BY-SA)
 
 # Millorar la qualitat dels corpus Wikimatrix i Europarl
 
