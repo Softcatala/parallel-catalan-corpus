@@ -31,22 +31,29 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>name</td>
-      <td><code itemprop="name">Open source aligned corpus English to Catalan.</code></td>
+      <td><code itemprop="name">Open source aligned text corpus English to Catalan.</code></td>
     </tr>
     <tr>
       <td>description</td>
-      <td><code itemprop="description">Open source aligned corpus English to Catalan for building NLP applications (e.g. machine translation)</code></td>
+      <td><code itemprop="description">Open source aligned text corpus English to Catalan for building NLP applications (e.g. machine translation)</code></td>
     </tr>
     <tr>
       <td>sameAs</td>
       <td><code itemprop="sameAs">https://github.com/Softcatala/en-ca-corpus</code></td>
+    </tr>
+    <tr>
+      <td>url</td>
+      <td><code itemprop="url">https://github.com/Softcatala/en-ca-corpus</code></td>
+    </tr>
+    <tr>
+      <td>creator</td>
+      <td><code itemprop="creator">Softcatalà</code></td>
     </tr>
   </table>
 </div>
 
 ## Other sources
 Data could be extracted from other sources, but this data would require proper processing and alignment. 
-* https://web.gencat.cat See footnote: "© Government of Catalonia permits the reuse of content and data provided that the source and the date of updating are cited and that the information is not distorted (article 8 of Catalan Law 37/2007) and does not conflict with a specific license."
 
 # Do you want to help?
 
