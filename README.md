@@ -1,14 +1,16 @@
 ## Description
-This repository collects open source ALIGNED sentences corpus English to Catalan.
+This repository collects open source bilingual aligned corpuses Catalan to several 
 
-These kind of aligned corpus are for example key to train machine translations system.
+We use these corpuses to train machine translations systems.
 
-We also recommend: http://opus.nlpl.eu/
+* [English - Catalan](./ca-en/)
 
+## References
 
-
-## Other sources
-Data could be extracted from other sources, but this data would require proper processing and alignment. 
+We stronly recommend the following sources of aligned corpuses:
+* https://opus.nlpl.eu/
+* https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix
+* https://www.statmt.org/cc-aligned/
 
 # Do you want to help?
 
