@@ -1,7 +1,7 @@
 ## Description
 This repository collects open source bilingual aligned corpuses Catalan to several 
 
-We use these corpuses to train machine translations systems.
+We use these corpuses to train the [Softcatalà neural translation system](https://github.com/Softcatala/nmt-softcatala)
 
 * [English - Catalan](./en-ca/)
 * [German - Catalan](./de-ca/)
