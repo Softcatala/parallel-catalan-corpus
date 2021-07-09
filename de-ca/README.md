@@ -1,5 +1,6 @@
-## Description
-This is a collection of aligned German-Catalan sentences that can be used to train machine translation systems.
+# Description
+
+German - Catalan corpus
 
 ## Data files
 |   Data file   |   Description |   Segments    |   Import date |   License |   Comments
@@ -13,7 +14,40 @@ This is a collection of aligned German-Catalan sentences that can be used to tra
 | TED2020.ca-de  | https://www.ted.com/  | 46681  | Apr 2021  | CC BY-NC-ND  |    |
 | Tatoeba.ca-de  | https://tatoeba.org/eng/downloads  | 726  | Apr 2021  | CC0 and CC-BY   |
 | Ubuntu.ca-de  | https://ubuntu.com/  | 6916  | Apr 2021  | GNU-GPL   |   |
-| covost_v2.ca-de  | https://github.com/facebookresearch/covost  | 263963  | May 2021  | CC0 | Original sentences were in English, and translated by Facebook to Catalan and German.
-| | | **5968126** | | | |
+| | | **5706726** | | | |
 
+
+# Metadescription
+
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+
+<div itemscope itemtype="http://schema.org/Dataset">
+  <table>
+    <tr>
+      <th>property</th>
+      <th>value</th>
+    </tr>
+    <tr>
+      <td>name</td>
+      <td><code itemprop="name">Open source aligned text corpus German to Catalan.</code></td>
+    </tr>
+    <tr>
+      <td>description</td>
+      <td><code itemprop="description">Open source aligned text corpus German to Catalan for building NLP applications (e.g. machine translation)</code></td>
+    </tr>
+    <tr>
+      <td>sameAs</td>
+      <td><code itemprop="sameAs">https://github.com/Softcatala/bilingual-catalan-corpus/de-ca</code></td>
+    </tr>
+    <tr>
+      <td>url</td>
+      <td><code itemprop="url">https://github.com/Softcatala/bilingual-catalan-corpus/de-ca</code></td>
+    </tr>
+    <tr>
+      <td>creator</td>
+      <td><code itemprop="creator">Softcatalà</code></td>
+    </tr>
+  </table>
+</div>
 
