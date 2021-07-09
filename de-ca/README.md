@@ -34,7 +34,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>description</td>
-      <td><code itemprop="description">Open source aligned text corpus German to Catalan for building NLP applications (e.g. machine translation)</code></td>
+      <td><code itemprop="description">Open source aligned text corpus German to Catalan for building NLP applications (e.g. machine translation). This collection provides a new Europarl German to Catalan corpus and different clean up for already existing datasets.</code></td>
     </tr>
     <tr>
       <td>sameAs</td>
