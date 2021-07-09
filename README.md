@@ -3,7 +3,7 @@ This repository collects open source bilingual aligned corpuses Catalan to sever
 
 We use these corpuses to train machine translations systems.
 
-* [English - Catalan](./ca-en/)
+* [English - Catalan](./en-ca/)
 
 ## References
 
