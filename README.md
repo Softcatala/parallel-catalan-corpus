@@ -1,5 +1,5 @@
 ## Description
-This repository collects open source bilingual aligned corpuses Catalan to several 
+This repository collects open source parallel aligned corpuses Catalan to several languages.
 
 We use these corpuses to train the [Softcatalà neural translation system](https://github.com/Softcatala/nmt-softcatala)
 
@@ -8,7 +8,7 @@ We use these corpuses to train the [Softcatalà neural translation system](https
 
 ## References
 
-We stronly recommend the following sources of aligned corpuses:
+We stronly recommend the following sources of aligned Catalan parallel corpuses:
 * https://opus.nlpl.eu/
 * https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix
 * https://www.statmt.org/cc-aligned/
