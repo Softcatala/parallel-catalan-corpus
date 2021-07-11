@@ -32,7 +32,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>description</td>
-      <td><code itemprop="description">Open source aligned text corpus English to Catalan for building NLP applications (e.g. machine translation)</code></td>
+      <td><code itemprop="description">Open source aligned text corpus English to Catalan for building NLP applications (e.g. machine translation). Already existing corpus have been clean up and two new corpus have been introduced: MemoriesProjectesLliures.en-ca (771K sentences) and europarl.en-ca (1.9M setences, using backtranslation). </code></td>
     </tr>
     <tr>
       <td>sameAs</td>
