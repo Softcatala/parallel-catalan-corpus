@@ -38,11 +38,11 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>sameAs</td>
-      <td><code itemprop="sameAs">https://github.com/Softcatala/bilingual-catalan-corpus/de-ca</code></td>
+      <td><code itemprop="sameAs">https://github.com/Softcatala/parallel-catalan-corpus/tree/master/de-ca</code></td>
     </tr>
     <tr>
       <td>url</td>
-      <td><code itemprop="url">https://github.com/Softcatala/bilingual-catalan-corpus/de-ca</code></td>
+      <td><code itemprop="url">https://github.com/Softcatala/parallel-catalan-corpus/tree/master/de-ca</code></td>
     </tr>
     <tr>
       <td>creator</td>
