@@ -38,7 +38,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>sameAs</td>
-      <td><code itemprop="sameAs">https://github.com/Softcatala/parallel-catalan-corpus/tree/</code></td>
+      <td><code itemprop="sameAs">https://github.com/Softcatala/parallel-catalan-corpus/</code></td>
     </tr>
     <tr>
       <td>url</td>
