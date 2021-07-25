@@ -45,7 +45,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
       <td><code itemprop="url">https://github.com/Softcatala/parallel-catalan-corpus/</code></td>
     </tr>
  <tr>
-    <td>provider</td>
+    <td>creator</td>
     <td>
       <div itemscope itemtype="http://schema.org/Organization" itemprop="creator">
         <table>
