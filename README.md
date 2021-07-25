@@ -17,6 +17,41 @@ We stronly recommend the following sources of aligned Catalan parallel corpuses:
 
 See [here](./CONTRIBUTING.md) (In Catalan)
 
+# Metadescription
+
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+
+<div itemscope itemtype="http://schema.org/Dataset">
+  <table>
+    <tr>
+      <th>property</th>
+      <th>value</th>
+    </tr>
+    <tr>
+      <td>name</td>
+      <td><code itemprop="name">Open source aligned text corpus English to Catalan and German to Catalan.</code></td>
+    </tr>
+    <tr>
+      <td>description</td>
+      <td><code itemprop="description">German: Open source aligned text corpus German to Catalan for building NLP applications (e.g. machine translation). Already existing corpus have been clean up and one new corpus has been introduced: europarl.de-ca (1.7M setences, using backtranslation).English: Open source aligned text corpus English to Catalan for building NLP applications (e.g. machine translation). Already existing corpus have been clean up and two new corpus have been introduced: MemoriesProjectesLliures.en-ca (771K sentences) and europarl.en-ca (1.9M setences, using backtranslation).</code></td>
+    </tr>
+    <tr>
+      <td>sameAs</td>
+      <td><code itemprop="sameAs">https://github.com/Softcatala/parallel-catalan-corpus/tree/</code></td>
+    </tr>
+    <tr>
+      <td>url</td>
+      <td><code itemprop="url">https://github.com/Softcatala/parallel-catalan-corpus/</code></td>
+    </tr>
+    <tr>
+      <td>creator</td>
+      <td><code itemprop="creator">Softcatalà</code></td>
+    </tr>
+  </table>
+</div>
+
+
 # Contact
 
 Contact Jordi Mas <jmas@softcatala.org>

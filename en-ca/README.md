@@ -15,37 +15,4 @@ English - Catalan corpus
 | covost2.ca-en | https://github.com/facebookresearch/covost | 79633 | Aug 2020 | CC0 | Catalan original sentences from Common Voice corpus + English translations
 | covost2.en-ca | https://github.com/facebookresearch/covost | 263891 | Aug 2020 | CC0 | English original sentences from Common Voice corpus + Catalan translations
 
-# Metadescription
-
-The following table is necessary for this dataset to be indexed by search
-engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
-
-<div itemscope itemtype="http://schema.org/Dataset">
-  <table>
-    <tr>
-      <th>property</th>
-      <th>value</th>
-    </tr>
-    <tr>
-      <td>name</td>
-      <td><code itemprop="name">Open source aligned text corpus English to Catalan.</code></td>
-    </tr>
-    <tr>
-      <td>description</td>
-      <td><code itemprop="description">Open source aligned text corpus English to Catalan for building NLP applications (e.g. machine translation). Already existing corpus have been clean up and two new corpus have been introduced: MemoriesProjectesLliures.en-ca (771K sentences) and europarl.en-ca (1.9M setences, using backtranslation). </code></td>
-    </tr>
-    <tr>
-      <td>sameAs</td>
-      <td><code itemprop="sameAs">https://github.com/Softcatala/parallel-catalan-corpus/tree/master/en-ca</code></td>
-    </tr>
-    <tr>
-      <td>url</td>
-      <td><code itemprop="url">https://github.com/Softcatala/parallel-catalan-corpus/tree/master/en-ca</code></td>
-    </tr>
-    <tr>
-      <td>creator</td>
-      <td><code itemprop="creator">Softcatalà</code></td>
-    </tr>
-  </table>
-</div>
 
