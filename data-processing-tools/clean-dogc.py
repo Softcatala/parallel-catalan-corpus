@@ -1,4 +1,4 @@
- #!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
 # Copyright (c) 2021 Jordi Mas i Hernandez <jmas@softcatala.org>
@@ -18,9 +18,6 @@
 # Free Software Foundation, Inc., 59 Temple Place - Suite 330,
 # Boston, MA 02111-1307, USA.
 
-import os
-
-
 def _clean(text):
     text = text.replace(" ,", ",")
     text = text.replace(" ;", ";")
@@ -30,8 +27,6 @@ def _clean(text):
     text = text.replace(" :", ":")
     text = text.replace(" )", ")")
     text = text.replace(" ’ ", "’")
- 
-  
     return text
     
 def main():

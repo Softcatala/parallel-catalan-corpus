@@ -18,8 +18,6 @@
 # Free Software Foundation, Inc., 59 Temple Place - Suite 330,
 # Boston, MA 02111-1307, USA.
 
-import polib
-import re
 from optparse import OptionParser
 
 def _is_invalid(src, trg):
@@ -35,7 +33,7 @@ def load_data_set(f_src, f_trg):
         while True:
             src = source.readline()
             trg = target.readline()
-    
+
             if not (src and trg):
                 break
 
@@ -49,7 +47,6 @@ def load_data_set(f_src, f_trg):
 
 def split_in_two_files(file_one, file_two, file_third, file_fourth):
 
-    corpus = {}
     pairs = 0
     cnt = 0
 
