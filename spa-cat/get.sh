@@ -28,7 +28,37 @@ europarl() {
     xz -9 -k europarl.es-ca.ca
 }
 
+wikimatrix() {
+	cd raw
+	wget -O ca-es.tmx.gz  https://object.pouta.csc.fi/OPUS-WikiMatrix/v1/tmx/ca-es.tmx.gz
+	gzip -d ca-es.tmx.gz 
+	tmx-to-text convert -f ca-es.tmx -s es -t ca -p wikimatrix
+    rm -f ca-es.tmx
+	mv wikimatrix.es-ca.es ../
+	mv wikimatrix.es-ca.ca ../
+	cd ..
+	xz -9 -k wikimatrix.es-ca.es
+	xz -9 -k wikimatrix.es-ca.ca
+}
+
+
+ccmatrix() {
+	cd raw
+	wget -O ca-es.tmx.gz https://object.pouta.csc.fi/OPUS-CCMatrix/v1/tmx/ca-es.tmx.gz
+	gzip -d ca-es.tmx.gz
+	tmx-to-text convert -f ca-es.tmx -s es -t ca -p ccmatrix
+    rm -f ca-es.tmx
+	mv ccmatrix.es-ca.es ../
+	mv ccmatrix.es-ca.ca ../
+	cd ..
+#	xz -9 -k ccmatrix.es-ca.es
+#	xz -9 -k ccmatrix.es-ca.ca
+}
+
+
 rm -r -f raw
 mkdir raw
-dogc
-europarl
+#dogc
+#europarl
+#xwikimatrix
+ccmatrix
