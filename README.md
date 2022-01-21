@@ -8,7 +8,7 @@ We use these corpuses to train the [Softcatalà neural translation system](https
 
 ## References
 
-We stronly recommend the following sources of aligned Catalan parallel corpuses:
+We strongly recommend the following sources of aligned Catalan parallel corpuses:
 * https://opus.nlpl.eu/
 * https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix
 * https://www.statmt.org/cc-aligned/
