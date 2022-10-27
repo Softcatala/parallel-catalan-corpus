@@ -4,7 +4,7 @@ This repository collects open source parallel aligned corpuses Catalan to severa
 We use these corpuses to train the [Softcatalà neural translation system](https://github.com/Softcatala/nmt-softcatala):
 
 * [English - Catalan](./eng-cat/)
-* [German - Catalan](./deu-cau/)
+* [German - Catalan](./deu-cat/)
 * [French - Catalan](./fra-cat/)
 * [Italian - Catalan](./ita-cat/)
 * [Japanese - Catalan](./jpn-cat/)
