@@ -11,6 +11,8 @@ We use these corpuses to train the [Softcatalà neural translation system](https
 * [Dutch - Catalan](./nld-cat/)
 * [Portuguese - Catalan](./por-cat/)
 * [Spanish - Catalan](./spa-cat/)
+* [Occitan - Catalan](./oci-cat/)
+* [Galician - Catalan](./glg-cat/)
 
 ## Sources of the corpus used
 
