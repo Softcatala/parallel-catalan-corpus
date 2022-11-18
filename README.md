@@ -48,7 +48,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>name</td>
-      <td><code itemprop="name">Open source aligned text corpus English,German,Spanish, etc to/from Catalan.</code></td>
+      <td><code itemprop="name">Open source aligned text corpus English, German, Spanish, etc to/from Catalan.</code></td>
     </tr>
     <tr>
       <td>description</td>
