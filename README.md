@@ -14,6 +14,8 @@ We use these corpuses to train the [Softcatalà neural translation system](https
 * [Occitan - Catalan](./oci-cat/)
 * [Galician - Catalan](./glg-cat/)
 
+Note: files with extension *xz* need to be descompressed with [xz](https://tukaani.org/xz/).
+
 ## Sources of the corpus used
 
 We strongly recommend the following sources of aligned Catalan parallel corpuses:
