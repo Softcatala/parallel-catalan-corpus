@@ -1,5 +1,7 @@
-## Description
+# Description
 This repository collects open source parallel aligned corpuses Catalan to several languages.
+
+## Parallel corpus
 
 We use these corpuses to train the [Softcatalà neural translation system](https://github.com/Softcatala/nmt-softcatala):
 
@@ -14,9 +16,27 @@ We use these corpuses to train the [Softcatalà neural translation system](https
 * [Occitan - Catalan](./oci-cat/)
 * [Galician - Catalan](./glg-cat/)
 
-Note: files with extension *xz* need to be descompressed with [xz](https://tukaani.org/xz/).
+The corpus with extension *xz* need to be descompressed with [xz](https://tukaani.org/xz/).
 
-## Sources of the corpus used
+You can do this easily by typing:
+
+```shell
+
+make extract-corpus
+```
+
+## Catalan monolingual corpus
+
+For backtranslation you may be interested in a monolingual Catalan corpus. You can create a monolingual corpus by typing:
+
+```shell
+
+make build-monolingual
+```
+
+This creates a single Catalan file with all unique strings across all language pairs.
+
+# Sources of the corpus used
 
 We strongly recommend the following sources of aligned Catalan parallel corpuses:
 * https://opus.nlpl.eu/
