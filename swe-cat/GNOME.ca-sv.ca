@@ -1,0 +1,150 @@
+Accerciser
+Feu una anàlisi d'accessibilitat a les aplicacions
+Explorador d'accessibilitat Accerciser
+La disposició predeterminada dels connectors al panell inferior
+La disposició predeterminada dels connectors al panell superior
+Llista de connectors desactivats per defecte
+Ressalta la durada
+La durada del quadre ressaltat en seleccionar nodes accessibles
+Ressalta el color del contorn
+El color i l'opacitat del contorn ressaltat.
+Ressalta el color de l'emplenat
+El color i l'opacitat de l'emplenat del ressaltat.
+Explorador de l'API
+Explora els diferents mètodes de l'actual accessible
+Amaga els atributs privats
+Mètode
+Propietat
+Valor
+Consola IPython
+Consola interactiva per a manipular l'accessible actualment seleccionat
+Seguiment d'esdeveniments
+_Seguiment d'esdeveniments
+_Neteja la selecció
+Tot
+Aplicació seleccionada
+Accessible seleccionat
+Font
+Seguiment d'esdeveniments
+Mostra els esdeveniments tal com es produeixen des dels tipus i fonts seleccionats
+Ressalta l'últim esdeveniment d'entrada
+Inicia/atura l'enregistrament d'esdeveniments
+Neteja el registre d'esdeveniments
+Nombre de fills
+(sense descripció)
+Descripció
+Estats
+Mostra
+Relacions
+Atributs
+_Accessible
+Realitza l'acció
+_Acció
+Identificador
+Joc d'eines
+Versió
+A_plicació
+Co_l·lecció
+0, 0
+Posició relativa
+Mida
+GINY
+Capa
+MDI-Z-order
+Alfa
+Posició absoluta
+Co_mponent
+_Escriptori
+Localització:
+_Document
+Enllaç
+H_ipertext
+Posició
+Descripció
+Localització
+_Imatge
+_Aplicació d'ajuda per a l'inici de sessió
+Selecciona-ho tot
+_Selecció
+Contingut del _flux
+Títol:
+Resum:
+Columnes seleccionades
+Files seleccionades
+Columnes
+Files
+Informació de la taula
+nom (x,y)
+Capçalera:
+Extensions:
+Fila
+Columna
+Cel·la seleccionada
+_Taula
+Text
+Desplaçament
+Inclou els predeterminats
+Inici: 0
+Final: 0
+Te_xt
+Valor actual
+Increment mínim
+Valor màxim
+Valor mínim
+Val_or
+desconegut
+Visualitzador d'interfícies
+Permet veure diverses propietats d'interfície
+(no està implementat)
+Nom
+URI
+Inici
+Final
+Massa fills seleccionables
+(Editable)
+Selecció ràpida
+Connector amb diferents mètodes per a seleccionar accessibles ràpidament.
+Inspecciona l'últim accessible amb el focus
+Inspecciona l'accessible sota el ratolí
+Natiu
+Dogtail
+LDTP
+Tipus d'script
+Enregistrador d'scripts
+Crea scripts d'estil del Dogtail
+L'script actual es perdrà.
+Confirmeu la neteja
+Esque_ma:
+V_alidar
+Inactiu
+Sense descripció
+Validador AT-SPI
+Valida l'accessibilitat de l'aplicació
+Nivell
+Rol
+S'està desant
+S'està validant
+EXCEPTE
+ERROR
+ADVERTÈNCIA
+INFORMACIÓ
+DEPURAR
+Bàsic
+Comprova l'accessibilitat fonamental de la interfície d'usuari de l'aplicació
+l'accionable %s no pot tenir el focus o ser seleccionat
+l'interactiu %s no es pot accionar
+hi ha més d'un giny amb el focus
+la interfície %s no té text
+l'índex %s en el pare no concorda amb l'índex del fill
+Falta l'element recíproc per a la relació %s
+falta el nom o l'etiqueta a %s
+la interfície de la taula %s que pot tenir el focus, no té la interfície de seleccióbutton has focused state without focusable state
+%s té l'estat %s sense tenir l'estat %s
+%s no pertany a un conjunt
+%(rolename)s índex %(num)d no concorda amb la fila i la columnaparent indexrow and column index
+%(rolename)s índex pare %(num1)d no concorda amb la fila i la columna de l'índex %(num2)d
+%s no té nom o descripció
+_Preferències...
+_Continguts
+L'Accerciser no pot veure les aplicacions de l'escriptori. Heu d'activar l'accessibilitat de l'escriptori per a solucionar-ho. Voleu activar-la ara?
+Nota: Els canvis tindran efecte després de sortir de la sessió.
