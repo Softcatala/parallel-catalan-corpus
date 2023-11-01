@@ -14,5 +14,6 @@ English - Catalan corpus
 | tatoeba.en-ca | https://tatoeba.org/eng/downloads | 5500|Jan 2020 | CC0 and CC-BY |
 | covost2.ca-en | https://github.com/facebookresearch/covost | 79633 | Aug 2020 | CC0 | Catalan original sentences from Common Voice corpus + English translations
 | covost2.en-ca | https://github.com/facebookresearch/covost | 263891 | Aug 2020 | CC0 | English original sentences from Common Voice corpus + Catalan translations
+| macocu-ca-en* | https://macocu.eu/ | 3130519 | Nov 2023 | CC0 | Crawled corpus from serveral web sites
 
 
