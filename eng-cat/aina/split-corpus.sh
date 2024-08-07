@@ -16,7 +16,7 @@ split_and_rename() {
   done
 }
 
-split_and_rename "train_clean.eu" "eus-cat" "eu"
-split_and_rename "train_clean.ca" "eus-cat" "ca"
+split_and_rename "aina-parallel.en" "aina-eng-cat" "en"
+split_and_rename "aina-parallel.ca" "aina-eng-cat" "ca"
 
-ls -ls eus-cat*
+ls -ls aina-eng*
