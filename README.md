@@ -15,6 +15,7 @@ We use these corpuses to train the [Softcatalà neural translation system](https
 * [Spanish - Catalan](./spa-cat/)
 * [Occitan - Catalan](./oci-cat/)
 * [Galician - Catalan](./glg-cat/)
+* [Basque - Catalan](./eus-cat/)
 
 The corpus with extension *xz* need to be descompressed with [xz](https://tukaani.org/xz/).
 
